@@ -8,8 +8,7 @@
 
 **Plugin language:** *en*
 **Author:** [@RustFlash](https://github.com/Flash-Ticker)
-
-![RustFlash - Your Favourite Trio Server](https://github.com/Flash-Ticker/BarDoorCloser/blob/main/bardoorcloserthumb.png)
+[![RustFlash - Your Favourite Trio Server](https://github.com/Flash-Ticker/BarDoorCloser/blob/main/bardoorcloserthumb.png)](https://youtu.be/xJzMHkWhYpw?si=Xg3FFy5DJ8DGYJIP)
 
 
 **Description**
