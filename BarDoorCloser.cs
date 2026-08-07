@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Oxide.Plugins
 {
-    [Info("BarDoorCloser", "RustFlash", "1.2.0")]
+    [Info("BarDoorCloser", "RustFlash", "1.4.0")]
     class BarDoorCloser : RustPlugin
     {
         private ConfigData configData;
@@ -56,7 +56,7 @@ namespace Oxide.Plugins
                 return;
             }
 
-            door.SetFlag(BaseEntity.Flags.Open, false);
+            door.SetFlagLocal(BaseEntity.Flags.Open, false);
             door.SendNetworkUpdateImmediate();
         }
 
